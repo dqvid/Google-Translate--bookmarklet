@@ -1,0 +1,1 @@
+javascript:q=document.getSelection();open('http://translate.google.com/#auto|en|'+(q));
